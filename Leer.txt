@@ -1,0 +1,8 @@
+Trabajo Practico de Programacion III
+El archivo final el miniMax_v4.py junto con funcionesExtras.py y Table.py
+miniMax_v2 --> Se arregló un problema que no podia imprimir la ficha que jugaba la IA
+miniMax_v3 --> Se hizo funcional el metodo del tablero jugarHumano() que se pedia obligatoriamente
+miniMax_v4 --> Se hizo el codigo mas legible derivando ciertas funciones a funcionesExtra.py
+miniMax_v5 --> (Fallo) Se intentó derivar el main a un nuevo archivo llamado main.py, pero por uso de variables gobales no se consiguió, con mas tiempo sería posible
+funcionesExtras.py --> Contienen ciertas funciones necesarias para el uso del programa
+Table.py --> Contiene el objeto tipo tablero con sus metodos obligatorios y algunos extras para el correcto funcionamiento del programa
