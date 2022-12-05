@@ -148,7 +148,7 @@ def aiTurno(fichaJugador, fichaIA, tablero):
         movimiento = miniMax(tablero, profundidad, JugadorIA)
         x, y = movimiento[0], movimiento[1]
 
-    establecerMovimiento(x, y, fichaIA, tablero)
+    establecerMovimiento(x, y, JugadorIA, tablero)
     time.sleep(1)
 
 
